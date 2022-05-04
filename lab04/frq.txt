@@ -1,0 +1,5 @@
+1. It is an ORM, meaning that it maps classes to database tables and objects of those classes to rows in those tables, and allows easy interaction with relational databases.
+
+2. Models are Python representations of classes in the database tables that handle SQL interactions.
+
+3. Views are groups of endpoints organized by function.
